@@ -9,4 +9,4 @@
 </ul>
 
 <h2>Screenshot</h2>
-<img src="/assets/Imagegallery" width="500"></img>
+<img src="assets/Imagegallery.png" width="500"></img>
