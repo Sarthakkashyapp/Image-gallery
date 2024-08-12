@@ -7,3 +7,6 @@
   <li>Hover Effects: Provides visual feedback when hovering over images.</li>
   <li>Grid Layout: Displays images in a neat and organized grid.</li>
 </ul>
+
+<h2>Screenshot</h2>
+<img src="/assets/Imagegallery" width="500"></img>
