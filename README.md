@@ -1,5 +1,5 @@
 <h2>Image Gallery</h2>
-<p>A simple and responsive image gallery created using HTML and CSS. This gallery showcases a collection of images in a grid layout with smooth hover effects.</p>
+<p>A simple and responsive image gallery created using HTML and CSS. This gallery showcases a collection of images in a grid layout with smooth hover effects.(A fun project)</p>
 
 <h2>Features</h2>
 <ul>
